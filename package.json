@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-ex-node",
+  "version": "1.0.0",
+  "description": "* npm init -y: creates package.json - every node project needs(description of the project)  - node_modules(files that dependencies use)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsaxmannjr/intro-to-ex-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrsaxmannjr/intro-to-ex-node/issues"
+  },
+  "homepage": "https://github.com/mrsaxmannjr/intro-to-ex-node#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
